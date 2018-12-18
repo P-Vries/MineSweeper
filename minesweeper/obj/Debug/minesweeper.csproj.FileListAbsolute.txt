@@ -1,0 +1,10 @@
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.csprojAssemblyReference.cache
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.Form1.resources
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.cache
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.CoreCompileInputs.cache
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+Z:\Medewerkers\Pim\C# Projecten\Projecten\Minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
